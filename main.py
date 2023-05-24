@@ -1,2 +1,3 @@
 def mane_function():
-    pass
+    print("hello")
+    print("hello")
